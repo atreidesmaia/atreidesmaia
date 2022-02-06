@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atreidesmaia
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning Jekyll, jQuery and React!
+- 🌱 I’m currently learning React!
 
 <!---
 atreidesmaia/atreidesmaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
